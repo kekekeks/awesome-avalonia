@@ -19,6 +19,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Podcasts](#podcasts)
 * [Presentations slides](#presentations-slides)
 * [Tooling](#tooling)
+* [Packaging](#packaging)
 * [Books](#books)
 * [E-Books](#e-books)
 * [Courses](#courses)
@@ -133,6 +134,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia) - An SVG rendering library with an example of Avalonia.
 - [dotnet-properties](https://github.com/jp2masa/dotnet-properties) - .NET Core CLI extension that allows editing project properties using a cross-platform UI.
 - [Rider Plugin For Avalonia](https://github.com/ForNeVeR/AvaloniaRider) - JetBrains Rider plugin for Avalonia development.
+
+## Packaging
+
+- [dotnet-bundle](https://github.com/egramtel/dotnet-bundle) - macOS application bundle generation utility
+- [macOS.SparkleUpdater.Avalonia](https://github.com/Deadpikle/macOS.SparkleUpdater.Avalonia) - automatic application updates for macOS
 
 ## Books
 
